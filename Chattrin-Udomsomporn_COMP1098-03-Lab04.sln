@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chattrin-Udomsomporn_Ex-01", "Chattrin-Udomsomporn_COMP1098-03-Lab04\Chattrin-Udomsomporn_Ex-01.csproj", "{20713AC5-A505-4084-8F7B-8532270A0AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chattrin_Udomsomporn_Ex-02", "Chattin_Udomsomporn_Ex02\Chattrin_Udomsomporn_Ex-02.csproj", "{82A25F89-75B3-4919-976B-CDFD2C766B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20713AC5-A505-4084-8F7B-8532270A0AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20713AC5-A505-4084-8F7B-8532270A0AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20713AC5-A505-4084-8F7B-8532270A0AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20713AC5-A505-4084-8F7B-8532270A0AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A25F89-75B3-4919-976B-CDFD2C766B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A25F89-75B3-4919-976B-CDFD2C766B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A25F89-75B3-4919-976B-CDFD2C766B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A25F89-75B3-4919-976B-CDFD2C766B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6B1A717-56A7-422E-BB4E-83483A19EA53}
+	EndGlobalSection
+EndGlobal
